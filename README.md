@@ -21,7 +21,7 @@ For the problem-solving approach, refer to:
 - [Implementation PDF (if you don’t have Jupyter Notebook)](./implementation_PDF.pdf)
 
 
-# Teams (which were not possible without them)
+## Teams (which were not possible without them)
 
 - [Bhavik Prajapati](https://github.com/BhavikPrajapati18)  
 - [Rohit Rathod](https://github.com/rohitrath0d)
