@@ -18,7 +18,7 @@ For the problem-solving approach, refer to:
 - [Docs](./Case2_ScriptDevs.pdf)  
 - [PPT](./ScriptDevPPT.pdf)  
 - [Implementation (Step-by-Step)](./MainImplementation.ipynb)  
-- [Implementation PDF (if you don’t have Jupyter Notebook)](./implementation_PDF.pdf)
+- [Implementation PDF (if you don’t have Jupyter Notebook)](./implementation%28PDF%29.pdf)
 
 
 ## Teams (which were not possible without them)
